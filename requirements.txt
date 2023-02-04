@@ -2,6 +2,7 @@ geopy==2.0.0
 numpy==1.23.5
 openpyxl==3.0.10
 pandas==1.5.2
+plotly==4.12.0
 pyxlsb==1.0.10
 requests==2.25.0
 requests-oauthlib==1.3.0
